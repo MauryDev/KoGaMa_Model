@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KoGaMa_Model", "KoGaMa_Model\KoGaMa_Model.vcxproj", "{40C9E630-D1AD-4924-AB5C-F4DE0E6D04B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40C9E630-D1AD-4924-AB5C-F4DE0E6D04B4}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{40C9E630-D1AD-4924-AB5C-F4DE0E6D04B4}.Debug|Any CPU.Build.0 = Debug|x64
+		{40C9E630-D1AD-4924-AB5C-F4DE0E6D04B4}.Debug|x64.ActiveCfg = Debug|x64
+		{40C9E630-D1AD-4924-AB5C-F4DE0E6D04B4}.Debug|x64.Build.0 = Debug|x64
+		{40C9E630-D1AD-4924-AB5C-F4DE0E6D04B4}.Debug|x86.ActiveCfg = Debug|Win32
+		{40C9E630-D1AD-4924-AB5C-F4DE0E6D04B4}.Debug|x86.Build.0 = Debug|Win32
+		{40C9E630-D1AD-4924-AB5C-F4DE0E6D04B4}.Release|Any CPU.ActiveCfg = Release|x64
+		{40C9E630-D1AD-4924-AB5C-F4DE0E6D04B4}.Release|Any CPU.Build.0 = Release|x64
+		{40C9E630-D1AD-4924-AB5C-F4DE0E6D04B4}.Release|x64.ActiveCfg = Release|x64
+		{40C9E630-D1AD-4924-AB5C-F4DE0E6D04B4}.Release|x64.Build.0 = Release|x64
+		{40C9E630-D1AD-4924-AB5C-F4DE0E6D04B4}.Release|x86.ActiveCfg = Release|Win32
+		{40C9E630-D1AD-4924-AB5C-F4DE0E6D04B4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5465F067-4084-4DD2-BB9A-B411DA4B043D}
+	EndGlobalSection
+EndGlobal
